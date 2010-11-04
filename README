@@ -1,0 +1,12 @@
+datecalc
+
+Copyright (c) 2003-2010 Isaac W. Foraker, All rights reserved.
+See LICENSE for license information
+
+A simple date calculation library.
+
+The datecalc library provides operators for comparing dates as stored in the
+datecalc::date_s structure and functions for converting dates to a day offset
+from 1/1/1 C.E.
+
+This is a beta, and the API may change.  See the TODO file for work to be done.
